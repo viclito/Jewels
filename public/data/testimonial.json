@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "video":"images/testi1.mp4",
+        "type":"box one"
+    },
+    {
+        "id":2,
+        "video":"images/testi2.mp4",
+        "type":"box two"
+    },
+    {
+        "id":3,
+        "video":"images/testi3.mp4",
+        "type":"box three"
+    },
+    {
+        "id":4,
+        "video":"images/testi4.mp4",
+        "type":"box four"
+    },
+    {
+        "id":5,
+        "video":"images/testi2.mp4",
+        "type":"box five"
+    }
+]

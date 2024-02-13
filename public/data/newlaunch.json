@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "img":"images/newlaunch1.jpg",
+        "title":"Ring",
+        "reviews":"343 review",
+        "star":4,
+        "discription":"It is long lasting and unaffected by the passage of time and may aid in the ring",
+        "price":3500
+
+    },
+    {
+        "id":2,
+        "img":"images/newlaunch2.jpg",
+        "title":"Ring",
+        "reviews":"33 review",
+        "star":5,
+        "discription":"It is long lasting and unaffected by the passage of time and may aid in the ring",
+        "price":4570
+
+    },
+    {
+        "id":3,
+        "img":"images/newlaunch3.jpg",
+        "title":"Ring",
+        "reviews":"833 review",
+        "star":4,
+        "discription":"It is long lasting and unaffected by the passage of time and may aid in the ring",
+        "price":4350
+
+    },
+    {
+        "id":4,
+        "img":"images/newlaunch2.jpg",
+        "title":"Ring",
+        "reviews":"1500 review",
+        "star":3,
+        "discription":"It is long lasting and unaffected by the passage of time and may aid in the ring",
+        "price":3350
+
+    }
+]

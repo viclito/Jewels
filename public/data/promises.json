@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "logo":"/images/reload.png",
+        "content":"Easy Exchange"
+    },
+    {
+        "id":2,
+        "logo":"/images/high-quality.png",
+        "content":"Certified Jewellery"
+    },
+    {
+        "id":3,
+        "logo":"/images/hand-shake.png",
+        "content":"Lifetime Product Service"
+    },
+    {
+        "id":4,
+        "logo":"/images/circle.png",
+        "content":"14 days return"
+    }
+]
